@@ -175,8 +175,8 @@ if s:is_dark
     let s:bg0  = s:gb.dark0_hard
   endif
 
-  let s:bg1  = s:gb.dark1
-  let s:bg2  = s:gb.dark2
+  let s:bg1  = s:gb.dark0
+  let s:bg2  = s:gb.dark0_soft
   let s:bg3  = s:gb.dark3
   let s:bg4  = s:gb.dark4
 
